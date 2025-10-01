@@ -1,0 +1,7 @@
+selenium
+applitools
+pandas
+scikit-learn
+google-generativeai
+python-dotenv
+rich

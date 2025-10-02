@@ -126,6 +126,12 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR f
 
 ---
 
+## 👤 Author
+
+Sumanta Swain
+
+---
+
 ## ⚖️ License
 
 MIT
